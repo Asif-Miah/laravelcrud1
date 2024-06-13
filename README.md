@@ -9,6 +9,8 @@ Styling: Uses Bootstrap CSS for a clean and responsive design.
  Modularity and Extensibility: Follows Laravel conventions, ensuring easy maintenance and extension of the project.
 
  **Technology used:** This project utilizes Laravel, HTML, Blade Templating Engine, Bootstrap, MySQL, PHP.
+
+ 
  ![Screenshot (13)](https://github.com/Asif3237/laravelcrud1/assets/99876059/3651d742-168a-45c3-9017-5563a97626e2)
 ![Screenshot (14)](https://github.com/Asif3237/laravelcrud1/assets/99876059/6a76f4ab-2d43-4fd2-ba22-b20d45611ee3)
 ![Screenshot (15)](https://github.com/Asif3237/laravelcrud1/assets/99876059/0d3237f7-72a0-4a98-acfe-412b6ddc0cab)
